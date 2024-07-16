@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Droniel1
-- ✍️ I’m interested in Automatization, Data workflow, Ai
+- ✍️ I’m interested in Automatization, Scientific calulations, Data science, Ai
 - 🤌 I’m currently learning Python, SQL, Advanced Excel + VBA
 - 🤏 Brief knowlage in Flask, HTML, JS, PowerFx, 
 - 💞️ I’m looking to collaborate on any starter project
